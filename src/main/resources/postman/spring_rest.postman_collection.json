@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "12a9b46c-bb7a-4a1a-9e43-a652d13ea449",
+		"name": "spring_rest",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "58676612",
+		"_collection_link": "https://axl-garcia-3350127.postman.co/workspace/Axl-Vincent-Garcia's-Workspace~10b8e067-038c-46d3-8d69-55f49b849838/collection/58676612-12a9b46c-bb7a-4a1a-9e43-a652d13ea449?action=share&source=collection_link&creator=58676612"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "POST",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
